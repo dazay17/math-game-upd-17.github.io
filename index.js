@@ -1039,8 +1039,9 @@ function showGameResults() {
 }
 function backToMainMenu() {
         // ↓↓↓ ВСТАВЬ ССЫЛКУ НА ГЛАВНОЕ МЕНЮ ЗДЕСЬ ↓↓↓
-        window.location.href = 'index1.html';
+        window.location.href = 'index.html';
         // ↑↑↑ ВСТАВЬ ССЫЛКУ НА ГЛАВНОЕ МЕНЮ ЗДЕСЬ ↑↑↑
         }
 // Запускаем игру при загрузке
+
 window.onload = newGame;
